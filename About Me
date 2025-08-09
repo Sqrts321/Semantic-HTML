@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Rhys Wilcoxen </title>
+</head>
+<body>
+
+<header>
+  <h1> Rhys W/Squishy </h1>
+</header>
+
+  <nav>
+    <ul>
+      <li><a href="https://pixilart.com/thesquirtle321">Pixil</a></li>
+      <li><a href="https://github.com/Sqrts321">Github</a></li>
+      <li><a href="https://scratch.mit.edu/users/-_wawa_wawa_-/">Scratch</a></li>
+    </ul>
+  </nav>
+
+ <section>
+      <h2>About Me</h2>
+      <article>
+        <h3>Likes to play Forsaken, Pressure, DOORS, Regretevator, and Grace! I'm always here to help a friend in need!</h3>
+        <p>she/her | Trans | non-religious | Loves everyone :3</p>
+      </article>
+    </section>
+  </main>
+
+  <main>
+    <section>
+      <h2>Favorite Things</h2>
+      <p>Roblox, sleeping, drawing, talking to my friends, </p>
+    </section>
+
+  <footer>
+    <p>Contact: sqrts123@gmail.com</p>
+    <p>&copy; 2025 Rhys</p>
+  </footer>
+
+</body>
+</html>
